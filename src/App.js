@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Waveform from "./waveform";
 
 // const url = "https://www.mfiles.co.uk/mp3-downloads/gs-cd-track2.mp3";
